@@ -567,7 +567,6 @@ img{
 .attentions{
     display:flex;
     justify-content:space-between;
-    border-style: solid;
     width:75%;
 }
 .postwithinfo .showmore{
